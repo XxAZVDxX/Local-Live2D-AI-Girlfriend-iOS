@@ -1,5 +1,9 @@
 # Live2D Chat Application
 
+## App icon
+![app (1)](https://github.com/user-attachments/assets/3fb87af4-6799-463b-ae5e-18784567d57f)
+
+## App Preview
 ![Live2D Chat](https://github.com/user-attachments/assets/85c3e77d-8efc-401d-9fa0-74ab3f9916a0)
 
 ## Demo Video
