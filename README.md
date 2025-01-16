@@ -25,7 +25,9 @@
 ![ChatAI Model Screenshot](https://github.com/user-attachments/assets/615ddaee-8779-497d-9017-e3bc1047380b)
 
 ## Stable Diffusion
-*Details about Stable Diffusion can be added here.*
+
+<img width="103" alt="image" src="https://github.com/user-attachments/assets/d0d36564-4263-4214-8360-80b78e32dc5e" />
+
 
 ## Supported Languages
 - **App Languages**: 
