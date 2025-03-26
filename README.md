@@ -9,7 +9,7 @@ This app arms to provide user a personal AI assistant just like Apple intelligen
 
 ## Demo Video
 
-[Watch the demo video here [Youtube]](https://youtu.be/5xG2XrMdPO8)
+[Watch the demo video here [Youtube]](https://youtu.be/waKwxTZiP9w)
 
 [Watch the demo video here [Bilibili]](https://www.bilibili.com/video/BV1iq9hY4EtQ/?spm_id_from=333.337.search-card.all.click)
 
