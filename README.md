@@ -1,4 +1,4 @@
-# Live2D Chat Application
+# Live2D Chat Application [iOS version] / [MacOS version]()
 
 ## App Icon
 
