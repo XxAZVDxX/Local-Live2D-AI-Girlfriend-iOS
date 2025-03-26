@@ -1,4 +1,4 @@
-# Live2D Chat Application [iOS version] / [MacOS version]()
+# Live2D Chat Application [iOS version] / [MacOS version](https://github.com/XxAZVDxX/Live2D-Chat-iOS/blob/main/README(Mac).md)
 
 ## App Icon
 
