@@ -1,8 +1,7 @@
-# Live2D Chat Application [iOS version] / [MacOS version](https://github.com/XxAZVDxX/Live2D-Chat-iOS/blob/main/README(Mac).md)
+# AI FURENDO [iOS version] / [MacOS version](https://github.com/XxAZVDxX/Live2D-Chat-iOS/blob/main/README(Mac).md)
 
 ## App Icon
-
-![App Icon](https://github.com/user-attachments/assets/3fb87af4-6799-463b-ae5e-18784567d57f)
+<img width="1024" height="1024" alt="AI FURENDO" src="https://github.com/user-attachments/assets/d0301129-d57a-40f1-8a7f-081386a1ff36" />
 
 ## Arms
 This app arms to provide user a personal AI assistant just like Apple intelligence
@@ -16,17 +15,24 @@ This app arms to provide user a personal AI assistant just like Apple intelligen
 ## Live2D Models(Hiyori, Hura, Mao)
 <img width="189" alt="image" src="https://github.com/user-attachments/assets/d37dd122-49c7-4027-b1be-0de13b327bfe" /><img width="188" alt="image" src="https://github.com/user-attachments/assets/8a358a35-1bb4-4903-9910-5db452494474" /><img width="189" alt="image" src="https://github.com/user-attachments/assets/4cdc6213-d800-4213-8f73-3e2eaecce66c" />
 
+## VRM Models
+
+
 ## ChatAI Model
 - **Azure OpenAI Studio**: 
   - (ChatGPT 4.0)
-  
 ![ChatAI Model Screenshot](https://github.com/user-attachments/assets/615ddaee-8779-497d-9017-e3bc1047380b)
 
+- **Other API(Grok, OpenAI....)**:
+  
+
 ## ChatAI Model(Local)
-- **DeepSeek R1 distill qwen 1.5b 4bit(built-in)**:
+- **Llama**:
 - **Or download other LLM model,(depends your device)**: 
 <img width="841" alt="image" src="https://github.com/user-attachments/assets/cfdc7b48-905b-4291-b682-e1662053232f" />
 
+- **LM Studio**:
+  
 ## Stable Diffusion
 
 <img width="167" alt="image" src="https://github.com/user-attachments/assets/6047456f-8533-4960-bc94-85c515b380f3" />
@@ -34,7 +40,7 @@ This app arms to provide user a personal AI assistant just like Apple intelligen
 
 ## Supported Languages
 - **App Languages**: 
-  - [English], [Japanese], [Cantonese], [Chinese, Simplified], [Chinese, Traditional], [Korean]
+  - [English], [Japanese], [Cantonese], [Chinese, Traditional], [Korean]
 
 <img width="454" alt="Screenshot 2025-03-24 at 3 02 38 PM" src="https://github.com/user-attachments/assets/bf169fd6-bb76-4ed3-b414-6ece5b8d5885" />
 
