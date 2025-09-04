@@ -27,11 +27,28 @@ This app arms to provide user a personal AI assistant just like Apple intelligen
   
 
 ## ChatAI Model(Local)
-- **Llama**:
-- **Or download other LLM model,(depends your device)**: 
+- **Llama 3.2 3B (Built-in)**:
+- **Or download other LLM models,(depends your device)**: 
 <img width="841" alt="image" src="https://github.com/user-attachments/assets/cfdc7b48-905b-4291-b682-e1662053232f" />
 
 - **LM Studio**:
+  Step 1. Open your LM Studio and move on to developer
+  
+  <img width="46" height="187" alt="Screenshot 2025-09-04 at 4 41 55 PM" src="https://github.com/user-attachments/assets/22ed1cfe-89d5-4390-934d-e3a6f0684e77" />
+
+  Step 2. Open Settings and set it into Serve on Local Network Mode
+  
+  <img width="303" height="40" alt="Screenshot 2025-09-04 at 4 42 20 PM" src="https://github.com/user-attachments/assets/07f8ff5b-225e-4489-b124-41e023b6cb27" />
+
+  Step 3. Set your Server Port, like (1234)
+  
+  <img width="297" height="40" alt="Screenshot 2025-09-04 at 4 42 53 PM" src="https://github.com/user-attachments/assets/4a0c1499-e7bb-4163-8f9b-5dc8a5817426" />
+
+  Step 4. Copy the IP Address and Paste on the App in Settings
+  
+  <img width="444" height="78" alt="Screenshot 2025-09-04 at 4 43 45 PM" src="https://github.com/user-attachments/assets/68fc8c49-74e8-4c19-b196-e30309394b2e" />
+<img width="333" height="446" alt="Screenshot 2025-09-04 at 4 47 07 PM" src="https://github.com/user-attachments/assets/3bcab7ac-2c0b-43f8-a9eb-6bcb02444b3e" />
+
   
 ## Stable Diffusion
 
